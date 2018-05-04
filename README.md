@@ -1,4 +1,4 @@
-# Dalhousie---Machine-Learning-with-Big-Data Course:
+# Dalhousie University---Machine Learning:
 
 
 Course Description:
