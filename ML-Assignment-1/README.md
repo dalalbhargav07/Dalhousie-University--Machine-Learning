@@ -1,0 +1,3 @@
+# Assignment1– Introduction to Python & sklearn 
+
+This assignment was designed to practice Python and to introduce you the **sklearn library** for machine learning in Python. This Assignment requires you to install **sklearn, tensoflow**, and download the Iris, and Wine data set to learn and predict some items by using algorithms implemented in sklearn. We also practice to display NMIST data that we need later.

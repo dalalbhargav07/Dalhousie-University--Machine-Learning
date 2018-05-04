@@ -1,0 +1,3 @@
+# Assignment5 – Convolutional Neural Networks and MNIST with Tensorflow
+
+This assignment is designed to introduce you to the **convolutional neural networks** and their implementation with **Tensorflow**. The first question is just a basic implementation of a 2-dimensional convolution with the example of an edge detector. Your next task is to go through the basic Tensorflow tutorials provided by Google and then to experiment with some variations on the MNIST dataset

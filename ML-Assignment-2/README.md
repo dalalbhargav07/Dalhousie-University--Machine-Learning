@@ -1,0 +1,5 @@
+# Assignment2– Regression, Probability Theory, and Optimization 
+
+This assignment is designed to review **gradient descent regression** with **regularization and probability theory**. This Assignment requires you to load a cleaned version of the dataset House Sales , learn and predict using your own implemented linear models, and evaluate the models. Follow the steps as indicated and complete the tasks. You are expected to figure out details of syntax by consulting Python’s Help. Since the material builds from one question to the next, it will be easiest to do them in order. Please answer each question by copying and commenting as needed on the material that you produce in the Jupyter.
+
+The second part of the assignment is a practice with probability theory. You are asked to write a program to plot a histogram for a specific probabilistic process that we can model by drawing samples from a specific distribution and also be asked to provide some analytic solutions

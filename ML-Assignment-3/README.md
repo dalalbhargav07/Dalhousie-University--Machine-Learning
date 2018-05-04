@@ -1,0 +1,3 @@
+# Assignment3– EM and Bayes Nets 
+
+This assignment is designed to show some examples of **Bayesian Networks and generative models**. This assignment requires you to apply a Gaussian mixture model to the Iris dataset with the **Expectation Maximization (EM) algorithm**. The second question is an example to apply a **probabilistic modeling package called Lea** for discrete probabilistic modeling. Implement thee **naïve Bayes classifier** also. As usual, please provide your answers in form of a  Jupyter Notebook.
